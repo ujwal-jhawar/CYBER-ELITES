@@ -1,2 +1,2 @@
 # CYBER-ELITES
-public repository of team cyber elites for tech hack 2023.
+Public repository of team cyber elites for tech hack 2023.
